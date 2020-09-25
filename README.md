@@ -1,6 +1,6 @@
 # Testing unlimited_test_works
 
-username: "TRENDTW\testingusername"
+username: "TRENDPH\atestinguser"
 password: "S@mpl3P4ssw0rd2231"
 
-Login at http://www.sample-url.trendmicro.com
+Login at http://www.test-url.trendmicro.com
